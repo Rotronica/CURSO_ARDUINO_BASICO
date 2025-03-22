@@ -10,7 +10,8 @@
     <li><a href="#temperatura_prom_lectura">Sensor LM35 con promedio de lecturas</a></li>
     <li><a href="#hc_sr04">Sensor ultrasónico hc-sr04</a></li>
     <li><a href="#us_025">Sensor ultrasónico us-025</a></li>
-    <li><a href="#servo">Servomotor</a></li>    
+    <li><a href="#servo">Servomotor</a></li>
+    <li><a href="#pwm">Control de velocidad de motor DC por PWM</a></li>
   </ol>
   <section id="parpadeo_led">
     <h1>1. Parpadeo de un LED</h1>
@@ -119,6 +120,15 @@
     <ul>
       <li><a href="https://github.com/Rotronica/CURSO_ARDUINO_BASICO/blob/master/SERVOMOTOR/SERVOMOTOR.ino" target="_blank">Código</a></li>
       <li><a href="https://github.com/Rotronica/CURSO_ARDUINO_BASICO/tree/master/SERVOMOTOR" target="_blank">Archivos de simulación y código</a></li>
+    </ul>
+  </section>
+  <section id="pwm">
+    <h1>12. Control de velocidad de motor DC por PWM</h1>
+    <p align=center>
+	    <img src="https://raw.githubusercontent.com/Rotronica/CURSO_ARDUINO_BASICO/refs/heads/master/CONTROL_PWM/conexion12.png" width="500" height="500" />
+	  </p>
+    <ul>
+      <li><a href="https://github.com/Rotronica/CURSO_ARDUINO_BASICO/blob/master/CONTROL_PWM/CONTROL_PWM.ino" target="_blank">Código</a></li>
     </ul>
   </section>
     
