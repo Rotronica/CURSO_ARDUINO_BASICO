@@ -1,3 +1,9 @@
+//Autor: Calle Condori Rodrigo
+//--Curso Arduino básico e introducción a la comunicación Arduino-Matlab--
+//------------------------------------------------------------------------
+//Organizado por la SCEIEIE
+//El siguiente programa realiza detecta la distancia de un obstaculo y lo muestra por el monitor seri
+ 
 // Definir los pines de conexión del sensor
 const int trigPin = 9;  // Pin Trig del sensor
 const int echoPin = 10; // Pin Echo del sensor
