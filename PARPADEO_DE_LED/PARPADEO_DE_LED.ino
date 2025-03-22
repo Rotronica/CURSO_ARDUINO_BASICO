@@ -1,5 +1,8 @@
 /*
  * Autor: Calle Condori Rodrigo
+ * --Curso de Arduino básico e introducción a la comunicación Arduino-Matlab--
+ * ---------------------------------------------------------------------------
+ * Organizado por la SCEIEIE
  * El siguiente programa realiza el parpadeo de un led conectado al pin digital D13
 */
 

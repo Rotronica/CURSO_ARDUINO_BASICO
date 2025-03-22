@@ -1,3 +1,10 @@
+/*
+ * Autor: Calle Condori Rodrigo
+ * ----Curso Arduino básico e introducción a la comunicación Arduino-Matlab----
+ * Organizado por la SCEIEIE
+ * El siguiente programa realiza la lectura de una señal analógia y su conversion a voltaje
+ */
+
 int valor_adc;
 static const int Vcc = 5; // Voltaje de referencia (5V en la mayoría de las placas Arduino)
 
